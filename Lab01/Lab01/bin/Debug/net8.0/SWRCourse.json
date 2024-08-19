@@ -1,0 +1,18 @@
+{
+  "Code": "SWR",
+  "Title": "Software Requirement",
+  "Teacher": {
+    "TeacherId": 3,
+    "TeacherName": "TamNT"
+  },
+  "Students": [
+    {
+      "StudentId": 5,
+      "StudentName": "Tran Duc Tri"
+    },
+    {
+      "StudentId": 6,
+      "StudentName": "Nguyen Tran Anh"
+    }
+  ]
+}

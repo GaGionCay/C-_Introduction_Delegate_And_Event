@@ -1,0 +1,56 @@
+[
+  {
+    "Code": "PRN",
+    "Title": "Programming Net",
+    "Teacher": {
+      "TeacherId": 1,
+      "TeacherName": "ChiLP"
+    },
+    "Students": [
+      {
+        "StudentId": 1,
+        "StudentName": "Hoang Minh Tri"
+      },
+      {
+        "StudentId": 2,
+        "StudentName": "Le Van Son"
+      }
+    ]
+  },
+  {
+    "Code": "SWT",
+    "Title": "Software Testing",
+    "Teacher": {
+      "TeacherId": 2,
+      "TeacherName": "TriTD"
+    },
+    "Students": [
+      {
+        "StudentId": 3,
+        "StudentName": "Lai Vu Hoang Anh"
+      },
+      {
+        "StudentId": 4,
+        "StudentName": "Vu Hong Tuan"
+      }
+    ]
+  },
+  {
+    "Code": "SWR",
+    "Title": "Software Requirement",
+    "Teacher": {
+      "TeacherId": 3,
+      "TeacherName": "TamNT"
+    },
+    "Students": [
+      {
+        "StudentId": 5,
+        "StudentName": "Tran Duc Tri"
+      },
+      {
+        "StudentId": 6,
+        "StudentName": "Nguyen Tran Anh"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "StudentId": 1,
+    "StudentName": "Hoang Minh Tri"
+  },
+  {
+    "StudentId": 2,
+    "StudentName": "Le Van Son"
+  },
+  {
+    "StudentId": 3,
+    "StudentName": "Lai Vu Hoang Anh"
+  },
+  {
+    "StudentId": 4,
+    "StudentName": "Vu Hong Tuan"
+  },
+  {
+    "StudentId": 5,
+    "StudentName": "Tran Duc Tri"
+  },
+  {
+    "StudentId": 6,
+    "StudentName": "Nguyen Tran Anh"
+  }
+]

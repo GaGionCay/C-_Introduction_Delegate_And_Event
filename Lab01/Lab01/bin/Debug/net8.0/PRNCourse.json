@@ -1,0 +1,30 @@
+{
+  "Code": "PRN",
+  "Title": "Programming Net",
+  "Teacher": {
+    "TeacherId": 1,
+    "TeacherName": "ChiLP"
+  },
+  "Students": [
+    {
+      "StudentId": 1,
+      "StudentName": "Hoang Minh Tri"
+    },
+    {
+      "StudentId": 2,
+      "StudentName": "Le Van Son"
+    },
+    {
+      "StudentId": 1,
+      "StudentName": "Hoang Minh Tri"
+    },
+    {
+      "StudentId": 1,
+      "StudentName": "Hoang Minh Tri"
+    },
+    {
+      "StudentId": 1,
+      "StudentName": "Hoang Minh Tri"
+    }
+  ]
+}

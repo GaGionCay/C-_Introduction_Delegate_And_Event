@@ -1,0 +1,18 @@
+{
+  "Code": "SWT",
+  "Title": "Software Testing",
+  "Teacher": {
+    "TeacherId": 1,
+    "TeacherName": "ChiLP"
+  },
+  "Students": [
+    {
+      "StudentId": 3,
+      "StudentName": "Lai Vu Hoang Anh"
+    },
+    {
+      "StudentId": 4,
+      "StudentName": "Vu Hong Tuan"
+    }
+  ]
+}

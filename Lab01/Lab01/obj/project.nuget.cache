@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VlZrSBp9+Ks=",
+  "success": true,
+  "projectFilePath": "E:\\Lab01\\Lab01\\Lab01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\triho\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
